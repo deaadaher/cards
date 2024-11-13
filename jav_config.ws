@@ -7,7 +7,7 @@ initial_jar=gamepack.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/k=3/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/k=3/g=oldscape/privacy/privacy.ws
-viewerversion=124
+viewerversion=667
 win_sub_version=1
 mac_sub_version=2
 other_sub_version=2
