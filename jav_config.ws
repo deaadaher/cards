@@ -1,11 +1,7 @@
 title=Old School RuneScape
-launcher_version=2
-server_address=149.56.28.66
-base_url=https://cache.simplicityps.org/
 cachedir=oldschool
 storebase=0
 cachesubdirid=0
-dropbox=true
 initial_jar=gamepack.jar
 initial_class=client.class
 window_preferredwidth=800
