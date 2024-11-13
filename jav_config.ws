@@ -11,6 +11,7 @@ applet_minwidth=765
 applet_minheight=503
 applet_maxwidth=5760
 applet_maxheight=2160
+loader_jar=gamepack.jar
 msg=lang0=English
 msg=tandc=This game is copyright © 1999 - 2024 Jagex Ltd.\Use of this game is subject to our ["http://www.runescape.com/terms/terms.ws"Terms and Conditions] and ["http://www.runescape.com/privacy/privacy.ws"Privacy Policy]. ["https://www.jagex.com/en-GB/terms/privacy#do-not-sell"Do Not Sell Or Share My Personal Information].
 msg=options=Options
