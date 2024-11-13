@@ -1,5 +1,5 @@
 title=Old School RuneScape
-codebase=https://raw.githubusercontent.com/deaadaher/cards/refs/heads/main/deaa.json
+codebase=deaa.json
 cachedir=oldschool
 storebase=0
 cachesubdirid=0
