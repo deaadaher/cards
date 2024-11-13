@@ -3,7 +3,7 @@ adverturl=http://www.runescape.com/k=3/g=oldscape/bare_advert.ws
 codebase=http://oldschool59.runescape.com/
 cachedir=oldschool
 storebase=0
-initial_jar=‪gamepack_2740394.jar
+initial_jar=gamepack_2740394.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/k=3/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/k=3/g=oldscape/privacy/privacy.ws
