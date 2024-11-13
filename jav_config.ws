@@ -1,4 +1,5 @@
 title=Old School RuneScape
+codebase=http://oldschool12.runescape.com/
 cachedir=oldschool
 storebase=0
 cachesubdirid=0
